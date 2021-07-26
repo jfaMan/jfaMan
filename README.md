@@ -3,6 +3,8 @@
  
 Hi there👋,
 
-I'm Allan, a web developer from Australia based in Tokyo.
+I'm Allan, a full-stack web developer from Australia based in Tokyo.
 
-Dance and photography are my creative outlets. I love that programming offers that same creative freedom.
+Dance and photography are my creative outlets. I love that programming offers that same creative freedom when it comes to design.
+
+I am looking for full-stack or front-end opportunities in the Greater Tokyo Area.
